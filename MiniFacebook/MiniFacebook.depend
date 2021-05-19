@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1543968647 source:c:\users\kalmargabor\desktop\minifacebook\loginfv.c
+	"loginfv.h"
+	"mainfv.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1543155265 c:\users\kalmargabor\desktop\minifacebook\loginfv.h
+	<stdbool.h>
+
+1543967615 source:c:\users\kalmargabor\desktop\minifacebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"loginfv.h"
+	"mainfv.h"
+	"messenger.h"
+	<time.h>
+	<windows.h>
+
+1544049268 source:c:\users\kalmargabor\desktop\minifacebook\mainfv.c
+	"mainfv.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
+1543968664 c:\users\kalmargabor\desktop\minifacebook\mainfv.h
+	<stdbool.h>
+	<time.h>
+	<windows.h>
+
+1543968503 c:\users\kalmargabor\desktop\minifacebook\messenger.h
+	<stdbool.h>
+
+1544048236 source:c:\users\kalmargabor\desktop\minifacebook\messenger.c
+	"messenger.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"mainfv.h"
+
+1543170263 source:c:\users\kalmargabor\desktop\minifacebook\debugmalloc.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"debugmalloc.h"
+
+1543170263 c:\users\kalmargabor\desktop\minifacebook\debugmalloc.h
+	<stdlib.h>
+	<stdbool.h>
+

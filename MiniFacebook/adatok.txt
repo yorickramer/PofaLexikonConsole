@@ -1,0 +1,14 @@
+gg	-	pest	-	shandor	edvi	ibolya	dzsani	~	
+edvi	20	Roma	ferfi	shandor	a	gg	y	qqq	*	ibolya	rupperthanna	*	1	dzsani	shajt	*	~	
+qqq	20	-	-	alma	edvi	ibolya	edvi	~	
+d	20	-	-	shandor	~	
+shandor	10	szarvas	-	a	edvi	gg	y	d	ibolya	~	
+a	20	-	-	shandor	edvi	ibolya	~	
+y	-	-	-	shandor	edvi	ibolya	edvi	~	
+alma	19	Budapest	no	qqq	ibolya	~	
+ibolya	-	-	-	edvi	shandor	gg	qqq	alma	~	
+rupperthanna	-	-	-	edvi	dzsani	~	
+robert	-	-	-	gg	~	
+1	-	-	ferfi	edvi	~	
+dzsani	-	-	-	rupperthanna	edvi	~	
+shajt	-	-	-	~	
